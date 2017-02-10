@@ -1,0 +1,4 @@
+Symbolic link:
+   |-- /etc/blkid.tab
+   |-- /etc/resolv.conf
+   |-- /etc/vtrgb

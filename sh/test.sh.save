@@ -1,0 +1,12 @@
+#!/bin/sh
+for file in "$@"
+d
+	while read word1
+	do
+		#[ "$word1" = "Subject:" ] &&
+		{
+			echo "$file $word1 $rest_of_line";
+			break;
+		}
+	done < $file
+done

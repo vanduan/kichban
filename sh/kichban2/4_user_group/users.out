@@ -1,0 +1,5 @@
+      User     Groups                        
+ -------------------------
+    abc123  -   abc123                       
+    ubuntu  -   ubuntu adm dialout cdrom floppy sudo audio dip video plugdev netdev
+ pico35770  -   picogroup                    
