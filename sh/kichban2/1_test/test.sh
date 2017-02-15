@@ -11,12 +11,6 @@ DIR=$1
 
 [ -d $DIR ] || { echo "\nNo such directory.\n"; exit 1; }
 
-if !(ls $DIR > /dev/null)
-then
-	echo "\nDirectory is empty.\n"
-	exit 1
-fi
-
 list=$(ls $DIR)
 
 # list subdir
