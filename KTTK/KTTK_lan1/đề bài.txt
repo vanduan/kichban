@@ -1,0 +1,12 @@
+Viết kịch bản nhận vào một file chứa thông tin như sau:
+ <tên/địa chỉ máy> - <login_user> - <tên mới> - <service>
+ PC1 - abc - cuchuoi - ssh
+ 192.168.0.1 - qwerty - ubuntu - dhcpd
+ 
+Thực hiện các yêu cầu sau:
+ a. Đổi tên máy: cũ -> mới
+ b. Kiểm tra service đang chạy hay dừng
+ c. Ghi kết quả ra file theo dạng
+    <tên cũ> - <địa chỉ IP> - <tên mới> - <Yes/No tương ứng với dịch vụ chạy/không>
+    PC1 - 1.2.3.4 - Can't connect - No
+    taolao - 192.168.0.1 - ubuntu - Yes
