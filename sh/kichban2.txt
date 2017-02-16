@@ -1,0 +1,9 @@
+Viet kich ban:
+1. Nhan vao 1 d/c Directory va xuat ra ca file rieng biet chua cac kieu file nhu sau:
+ - Thu muc con
+ - File kha thi
+ - link symbolique
+2. Nhan vao 1 file chua danh sach ten may va xuat ra file chua danh sach cac ten may khong the phan giai duoc.
+3. Nhan vao 1 file chua danh sach d/c IP cac may va xuat ra 1 danh sach cac d/cIP khong the lien lac duoc.
+4. Nhan vao 1 file chua danh sach ten nguoi dung xuat ra danh sach gom nhieu dong va moi dong chua: <ten nguoi dung> - <nhom nguoi dung chua ten nguoi dung>
+

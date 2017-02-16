@@ -1,0 +1,18 @@
+Sv dang ky sau (12/5)
+1. Nguyen Van Duol
+2. Nguyen nhanh tieng
+
+Bai tap
+Viet cac kich ban thuc hien cac cong viec sau:
+- Nhan vao 1 d/c may o xa
+1. Hien thi d/c IP cua cac NIC tren may
+2. Hien thi default gateway 
+3. Kiem tra xem 1 nguoi dung (ten nhap tu ban phim) da ton tai chua?
+4. Hien thi cac d/c DNS server 
+5. Hien thi ten may (neu may da duoc dat ten)- nguoc lai: dat ten cho may
+6. Hien thi danh sach nguoi dung cua nhom Admin.
+7. Goi dich vu dhclient de xin IP tu dich vu DHCP
+8. Lay noi dung Desktop cua nguoi dung dang logon
+9. Lay noi dung thung rac cua may
+10. Liet ke cac dich vu dang chay.
+

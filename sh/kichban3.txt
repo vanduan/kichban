@@ -1,0 +1,16 @@
+1. Dat ten va luu tru ten cho 1 ds may:
+- Input: file chua ds may gom 2 cot: d/cIP/ten may:ten moi
+- Output: file chua ketqua: d/cIP/tenmay:ten cu:tenmoi
+
+2. Thiet lap cau hinh IP cho ds may: chuyen tu ip tinh sang dhcp
+ (tham khao file /etc/network/interface)
+- Input: file chua ds may: d/cIP/ten may
+- Output: file chua ketqua thuc hien: d/cIP/tenmay:OK/No
+
+3. Thiet lap cau hinh search (file /etc/resolv.conf) cho ds may
+- Input: file chua ds may: d/cIP/ten may:search domain
+  vidu: 192.168.1.20:fit.iuh.edu
+- Output: file chua ketqua thuc hien: d/cIP/tenmay:search domain cu: search domain moi
+
+
+
