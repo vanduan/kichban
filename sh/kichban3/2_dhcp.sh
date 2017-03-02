@@ -3,7 +3,6 @@
 # (tham khao file /etc/network/interface)
 #- Input: file chua ds may: d/cIP/ten may
 #- Output: file chua ketqua thuc hien: d/cIP/tenmay:OK/No
-set -x
 [ $# = 1 ] || {
 	echo "Usage: $0 <file_input>";
 	exit 1;
@@ -51,4 +50,3 @@ do
 		echo "$pc:No"; >> "$1.out"
 	done
 done < $1
-set +x
